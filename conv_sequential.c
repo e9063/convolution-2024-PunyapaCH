@@ -39,9 +39,9 @@ int main(){
 
 
     // Print the result
-    //for (int i = 0; i < NR; i++) {
-        //printf("%d\n", arr[i]);
-    //}
+    for (int i = 0; i < NR; i++) {
+        printf("%d\n", arr[i]);
+    }
 
 
     // ---- free memory ----
